@@ -1,0 +1,11 @@
+{
+  "name": "website-toko-sdk",
+  "version": "1.0.0",
+  "main": "indeks.js",
+  "scripts": {
+    "start": "node indeks.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
